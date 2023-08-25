@@ -1,0 +1,3 @@
+class HeroChallenge < ApplicationRecord
+
+end
